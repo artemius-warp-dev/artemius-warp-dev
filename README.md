@@ -1,11 +1,7 @@
 ### Hi, I'm Artem
 
-Backend engineer on the **BEAM** (Elixir, Erlang/OTP), also writing **Go**. I work on
-fintech backends: high-throughput services where correctness, latency and staying up
-under partial failure all matter at once.
-
-What I care about: supervision trees that actually match failure domains, back-pressure
-instead of hoping queues stay short, and code that the next person can change safely.
+Backend engineer working mostly on the **BEAM** (Elixir, Erlang/OTP), also in **Go**.
+I build backend services for fintech.
 
 ## Featured
 
@@ -24,4 +20,4 @@ Elixir · Erlang/OTP · Phoenix & LiveView · Go · PostgreSQL · Redis · Rabbi
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/artem-salagaev-elixir/)
+[LinkedIn](https://www.linkedin.com/in/artem-salagaev/)
