@@ -37,4 +37,4 @@ MSc in Software Engineering, Peter the Great St. Petersburg Polytechnic Universi
 
 ## Contact
 
-[CV](https://artemius-warp-dev.github.io) · [LinkedIn](https://www.linkedin.com/in/artem-salagaev/) · artem.salagaev.dev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/artem-salagaev/) · artem.salagaev.dev@gmail.com
